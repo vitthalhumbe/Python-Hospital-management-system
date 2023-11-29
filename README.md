@@ -12,10 +12,6 @@ Hospital Management System is a desktop application built with Tkinter (Python G
 1. Install Python
 2. Install MySQL and create a database named "hospital"
 
-## Installation
-1. Clone the repository: `git clone https://github.com/your_username/hospital-management-system.git`
-2. Navigate to the project directory: `cd hospital-management-system`
-3. Install required packages: `pip install -r requirements.txt`
 
 ## Usage
 1. Run the application: `python hospital_management_system.py`
